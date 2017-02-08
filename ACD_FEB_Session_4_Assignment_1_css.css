@@ -1,0 +1,19 @@
+.speechBubblerec{
+	width: 100px;
+	height: 80px;
+	background-color: blue;
+	border-radius: 10px;
+	position: relative;
+	left: 20px;
+}
+.speechBubbletri{
+	width: 0px;
+	height: 0px;
+	border-right:20px solid blue;
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent;
+	--right: 100px;
+	top: 20px;
+	position: absolute;
+	padding: 0px
+}
